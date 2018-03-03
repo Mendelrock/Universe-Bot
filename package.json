@@ -1,0 +1,12 @@
+{
+  "name": "Universe-Bot",
+  "version": "1.0.0",
+  "description": "Tapir-powered bot",
+  "main": "bot.js",
+  "author": "TapirdeBain",
+  "dependencies": {
+    "discord-graf": "^0.15.4",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.0"
+  }
+}
